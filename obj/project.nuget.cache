@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Q8n1FWI4JAH6CyxNeI1x61mo7RJbnHgYYcFwGeLMDVw0+hkbN7dzoF1CEWWhghxmZ/dhg2siN6P8jYpJmjOXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Documents\\GitHub\\HavaDurumu\\HavaDurumu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}
